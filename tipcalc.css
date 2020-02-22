@@ -1,0 +1,22 @@
+html {
+    font-family: Consolas;
+}
+
+label {
+    display: block;
+}
+
+input {
+    font-size: 30px;
+    width: 250px;
+}
+
+body{
+    text-align: center;
+    border: 2px solid rgb(79, 185, 227);
+    margin: 100px auto;
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+}
